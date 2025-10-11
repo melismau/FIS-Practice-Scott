@@ -3,4 +3,4 @@ Mock Repository for github practice on the asignature Software Engineering Funda
 
 ## Participantes
 - Carlos Javier Calderon Delgado
-![](image/Carlos.JPG)
+![Foto mia](image/Carlos.JPG)
