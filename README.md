@@ -4,3 +4,5 @@ Mock Repository for github practice on the asignature Software Engineering Funda
 ## Participantes
 - Carlos Javier Calderon Delgado
 ![Foto mia](image/Carlos.JPG)
+- Nicole Elizabeth Scott Grajales
+![Eli Eli Eli Eli](image/evilCreature.jpeg)
