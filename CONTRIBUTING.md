@@ -37,7 +37,7 @@ Esta guía te ayudará a entender cómo contribuir de manera efectiva y mantener
 
 #### Formato
 
-***<tipo>(<area>): <descripcion concisa de tu trabajo>***
+***\<tipo>(\<area>): \<descripcion concisa de tu trabajo>***
 
 **Trabajo completado:**
 - Lista de entregables principales
